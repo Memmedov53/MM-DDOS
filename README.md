@@ -4,7 +4,7 @@ MM-DDOS Memmedov53 tərəfindən hazırlanmışdır!
 
 Qurulum:
 
-git clone https://github.com/Memmedov53/MM-DDOS.git
-cd MM-DDOS
-ls
-python3 MM-DDOS.py
+1. git clone https://github.com/Memmedov53/MM-DDOS.git
+2. cd MM-DDOS
+3. ls
+4. python3 MM-DDOS.py
